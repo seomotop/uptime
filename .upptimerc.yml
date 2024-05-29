@@ -3,19 +3,14 @@ owner: seomotop # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: bk8
+    url: https://bk8.sarl
+  - name: scoreahit
+    url: https://scoreahit.com
+  - name: luck8a
+    url: https://luck8a.net
+  - name: qh88com
+    url: https://qh88com.tel
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
