@@ -3,8 +3,6 @@ owner: seomotop # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: bk8.xdown
-    url: https://bk8.xdown
   - name: bk8.sarl
     url: https://bk8.sarl
   - name: scoreahit.com
