@@ -3,13 +3,13 @@ owner: seomotop # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: bk8
+  - name: bk8.sarl
     url: https://bk8.sarl
-  - name: scoreahit
+  - name: scoreahit.com
     url: https://scoreahit.com
-  - name: luck8a
+  - name: luck8a.net
     url: https://luck8a.net
-  - name: qh88com
+  - name: qh88com.tel
     url: https://qh88com.tel
 
 status-website:
