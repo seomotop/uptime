@@ -1,25 +1,5 @@
 [
   {
-    "name": "bk8.xdown",
-    "url": "https://bk8.xdown",
-    "icon": "https://icons.duckduckgo.com/ip3/bk8.xdown.ico",
-    "slug": "bk8-xdown",
-    "status": "down",
-    "uptime": "7.08%",
-    "uptimeDay": "7.08%",
-    "uptimeWeek": "7.08%",
-    "uptimeMonth": "7.08%",
-    "uptimeYear": "7.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-05-30": 0
-    }
-  },
-  {
     "name": "bk8.sarl",
     "url": "https://bk8.sarl",
     "icon": "https://icons.duckduckgo.com/ip3/bk8.sarl.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 448,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 431,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1747,
-    "timeDay": 1747,
-    "timeWeek": 1747,
-    "timeMonth": 1747,
-    "timeYear": 1747,
+    "time": 1531,
+    "timeDay": 1531,
+    "timeWeek": 1531,
+    "timeMonth": 1531,
+    "timeYear": 1531,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3190,
-    "timeDay": 3190,
-    "timeWeek": 3190,
-    "timeMonth": 3190,
-    "timeYear": 3190,
+    "time": 3002,
+    "timeDay": 3002,
+    "timeWeek": 3002,
+    "timeMonth": 3002,
+    "timeYear": 3002,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1791,
-    "timeDay": 1791,
-    "timeWeek": 1791,
-    "timeMonth": 1791,
-    "timeYear": 1791,
+    "time": 1720,
+    "timeDay": 1720,
+    "timeWeek": 1720,
+    "timeMonth": 1720,
+    "timeYear": 1720,
     "dailyMinutesDown": {}
   }
 ]
