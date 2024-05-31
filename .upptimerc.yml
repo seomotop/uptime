@@ -12,22 +12,27 @@ sites:
   - name: qh88com.tel
     url: https://qh88com.tel
     expectedStatusCodes:
+      - 200
+      - 301
       - 403
+      - 404
   - name: alibaba.com
     url: https://alibaba333333.com
   - name: 78win.africa
     url: https://78win.africa
     expectedStatusCodes:
+      - 200
+      - 301
       - 403
+      - 404
     
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.zamexperts.com
   # baseUrl: /uptime
   logoUrl: https://www.pagerduty.com/wp-content/uploads/2021/03/uptimerobot-logo-09.png
-  name: Upptime
+  name: SEO Uptime Checker
   introTitle:
   introMessage:
   navbar:
