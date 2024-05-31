@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 1311,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1311,
+    "time": 1264,
+    "timeDay": 1264,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2920,
-    "timeDay": 2920,
-    "timeWeek": 2920,
-    "timeMonth": 2920,
-    "timeYear": 2920,
+    "time": 2936,
+    "timeDay": 2936,
+    "timeWeek": 2936,
+    "timeMonth": 2936,
+    "timeYear": 2936,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,39 @@
     "url": "https://qh88com.tel",
     "icon": "https://icons.duckduckgo.com/ip3/qh88com.tel.ico",
     "slug": "qh88com-tel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 1649,
-    "timeWeek": 1649,
-    "timeMonth": 1649,
-    "timeYear": 1649,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1450,
+    "timeDay": 1450,
+    "timeWeek": 1450,
+    "timeMonth": 1450,
+    "timeYear": 1450,
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
+  },
+  {
+    "name": "alibaba.com",
+    "url": "https://alibaba333333.com",
+    "icon": "https://icons.duckduckgo.com/ip3/alibaba333333.com.ico",
+    "slug": "alibaba-com",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   }
 ]
