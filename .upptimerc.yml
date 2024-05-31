@@ -11,6 +11,8 @@ sites:
     url: https://luck8a.net
   - name: qh88com.tel
     url: https://qh88com.tel
+  - name: alibaba.com
+    url: https://alibaba333333.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
