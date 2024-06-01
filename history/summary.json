@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/raw.githubusercontent.com.ico",
     "slug": "test-up",
     "status": "up",
-    "uptime": "18.26%",
-    "uptimeDay": "18.26%",
-    "uptimeWeek": "18.26%",
-    "uptimeMonth": "18.26%",
-    "uptimeYear": "18.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 74,
     "timeDay": 74,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {
-      "2024-06-01": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bk8.sarl",
@@ -62,7 +60,7 @@
     "slug": "luck8a-net",
     "status": "down",
     "uptime": "58.59%",
-    "uptimeDay": "24.22%",
+    "uptimeDay": "24.21%",
     "uptimeWeek": "58.59%",
     "uptimeMonth": "58.59%",
     "uptimeYear": "58.59%",
@@ -72,7 +70,7 @@
     "timeMonth": 2151,
     "timeYear": 2151,
     "dailyMinutesDown": {
-      "2024-06-01": 282,
+      "2024-06-01": 283,
       "2024-05-31": 809
     }
   },
@@ -83,7 +81,7 @@
     "slug": "qh88com-tel",
     "status": "up",
     "uptime": "86.07%",
-    "uptimeDay": "81.36%",
+    "uptimeDay": "81.37%",
     "uptimeWeek": "86.07%",
     "uptimeMonth": "86.07%",
     "uptimeYear": "86.07%",
