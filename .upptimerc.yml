@@ -13,18 +13,52 @@ sites:
     url: https://qh88com.tel
     expectedStatusCodes:
       - 200
+      - 201
+      - 202
+      - 203
+      - 200
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 300
       - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 306
+      - 307
+      - 308
       - 403
-      - 404
   - name: alibaba.com
     url: https://alibaba333333.com
   - name: 78win.africa
     url: https://78win.africa
     expectedStatusCodes:
       - 200
+      - 201
+      - 202
+      - 203
+      - 200
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 300
       - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 306
+      - 307
+      - 308
       - 403
-      - 404
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
