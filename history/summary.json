@@ -4,9 +4,9 @@
     "url": "https://bk8.sarl",
     "icon": "https://icons.duckduckgo.com/ip3/bk8.sarl.ico",
     "slug": "bk8-sarl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1256,
     "timeMonth": 962,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "scoreahit.com",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/luck8a.net.ico",
     "slug": "luck8a-net",
     "status": "down",
-    "uptime": "40.32%",
+    "uptime": "40.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "27.31%",
-    "uptimeYear": "40.32%",
+    "uptimeYear": "40.27%",
     "time": 1713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2094,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2024-08-05": 927,
+      "2024-08-05": 1050,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
